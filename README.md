@@ -19,7 +19,7 @@ This project is a simplified clone of the Airbnb web platform. It is part of a f
 
 ## UI/UX Design Planning.
 
-	* Designs
+	## Designs
 
 		- Create intuitive booking flow
 		- Maintaining visual consistency
@@ -36,4 +36,9 @@ This project is a simplified clone of the Airbnb web platform. It is part of a f
 ## Primary Pages
 
 	## Property Listing View - Grid display of available properties with filters
-	
+	## Listing Detailed View - Complete property details with images and booking form
+	## Simple Checkout View - Streamlined payment and booking confirmation
+
+## Importance of User-Friendly Design
+
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and inproves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
