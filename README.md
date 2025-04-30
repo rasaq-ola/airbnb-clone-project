@@ -19,7 +19,7 @@ This project is a simplified clone of the Airbnb web platform. It is part of a f
 
 ## UI/UX Design Planning.
 
-	## Designs
+	* Designs
 
 		- Create intuitive booking flow
 		- Maintaining visual consistency
