@@ -17,3 +17,23 @@ This project is a simplified clone of the Airbnb web platform. It is part of a f
 - Flask (backend)
 - MySQL (database)
 
+## UI/UX Design Planning.
+
+	## Designs
+
+		- Create intuitive booking flow
+		- Maintaining visual consistency
+		- Ensure fast loading times
+		- Prioritize mobile responsiveness
+
+	## Key Features
+
+		- Property search and filtering
+		- Detailed property viewing
+		- Securing checkout process 
+		- User authentication
+
+## Primary Pages
+
+	## Property Listing View - Grid display of available properties with filters
+	
