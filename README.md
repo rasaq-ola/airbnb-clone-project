@@ -33,6 +33,24 @@ This project is a simplified clone of the Airbnb web platform. It is part of a f
 		- Securing checkout process 
 		- User authentication
 
+	## Color Styles
+
+		- Primary: #FF5A5F
+		- Secondary: #008489
+		- Background: #FFFFFF
+		- Text: 222222
+		- Secondary Text: #717171
+
+	## Typography
+
+		- Primary Font: Circular, medium (500), 16px
+		- Headings: Circular, Bold(700), 24px-32px
+		- Secondary Text: Circular, Book (400), 14px
+
+## Importance of Identifying Design Properties of A Mock Up Design
+
+Identifying the design of a mock up such as layout structure, typography, color palette, spacing, and component patterns is essintial to accurately translating a visual concept into a working application. It ensures the final product reflects the intended user experience, improves development efficiency by guiding CSS and component structure, supports, responsive design, and enables better collaboration between designers and developers.
+
 ## Primary Pages
 
 	## Property Listing View - Grid display of available properties with filters
